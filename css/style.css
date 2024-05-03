@@ -51,7 +51,8 @@ p {
 }
 
 .hero__container {
-    max-width: 2000px;
+    min-height: 900px;
+    min-width: 1000px;
     margin: 0 auto;
     flex-direction: column;
 
@@ -93,10 +94,11 @@ p {
 }
 
 .hero__img {
-    width: 650px;
-    height: 600px;
-    padding-bottom: 50px;
-    padding-right: 70px;
+    width: 450px;
+    height: 550px;
+    padding-bottom: 220px;
+    padding-right: 80px;
+    padding-left: 40px;
 }
 
 .information {
@@ -132,3 +134,11 @@ p {
     width: 300px;
     height: 400px;
 }
+
+
+
+
+
+
+
+
